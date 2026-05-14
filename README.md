@@ -1,6 +1,6 @@
 # projet-en-Haskell
 
-Licence 1 de Mathématiques - Université de Caen Normandie - Sofiane ALLA - 2020
+Licence 1 de Mathématiques - Université de Caen Normandie - Sofiane ALLA - 2022
 
 Introduction au langage de programmation Haskell via des travaux pratiques et un projet final
 
